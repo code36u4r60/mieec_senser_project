@@ -1,0 +1,22 @@
+---
+devices:
+  uThingVOC:
+    baud: 115200
+    timeout: 1
+    set-config: J 1
+  IOUSBHostDevice:
+    baud: 9600
+    timeout: 1
+    set-config:
+  USB2.0-Serial:
+    baud: 9600
+    timeout: 1
+    set-config:
+  Arduino Uno:
+    baud: 9600
+    timeout: 1
+    set-config:
+  CP2104 USB to UART Bridge Controller:
+    baud: 115200
+    timeout: 11
+    set-config:
